@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="http://www.w3.org/1999/xhtml" version="1.0">
+<file datatype="x-STR#" original="undefined" product-version="v13" source-language="en-US" target-language="ja">
+<header>
+<note/>
+</header>
+<body>
+<group>
+
+
+<trans-unit resname="Label Editor">
+<target>ラベルエディター</target>
+</trans-unit>
+
+<trans-unit resname="Select label settings file...">
+<target>ラベル設定ファイルを選択してください...</target>
+</trans-unit>
+
+<trans-unit resname="Layout">
+<target>レイアウト</target>
+</trans-unit>
+
+<trans-unit resname="Label">
+<target>ラベル</target>
+</trans-unit>
+
+<trans-unit resname="Source">
+<target>ソースコード</target>
+</trans-unit>
+
+<trans-unit resname="Load...">
+<target>読み込み...</target>
+</trans-unit>
+
+<trans-unit resname="Print">
+<target>プリント</target>
+</trans-unit>
+
+<trans-unit resname="Size">
+<target>サイズ</target>
+</trans-unit>
+
+<trans-unit resname="Width:">
+<target>横:</target>
+</trans-unit>
+
+<trans-unit resname="Height:">
+<target>縦:</target>
+</trans-unit>
+
+<trans-unit resname="Top margin:">
+<target>上余白:</target>
+</trans-unit>
+
+<trans-unit resname="Left margin:">
+<target>左余白:</target>
+</trans-unit>
+
+<trans-unit resname="Right margin:">
+<target>右余白:</target>
+</trans-unit>
+
+<trans-unit resname="Bottom margin:">
+<target>下余白:</target>
+</trans-unit>
+
+<trans-unit resname="Horizontal gap:">
+<target>横間隔:</target>
+</trans-unit>
+
+<trans-unit resname="Vertical gap:">
+<target>縦間隔:</target>
+</trans-unit>
+
+<trans-unit resname="Rows:">
+<target>行数:</target>
+</trans-unit>
+
+<trans-unit resname="Columns:">
+<target>列数:</target>
+</trans-unit>
+
+<trans-unit resname="Start:">
+<target>開始:</target>
+</trans-unit>
+
+<trans-unit resname="Labels per record:">
+<target>枚数:</target>
+</trans-unit>
+
+<trans-unit resname="Landscape">
+<target>横向き</target>
+</trans-unit>
+
+<trans-unit resname="Portrait">
+<target>縦向き</target>
+</trans-unit>
+
+<trans-unit resname="Vertical">
+<target>行順</target>
+</trans-unit>
+
+<trans-unit resname="Horizontal">
+<target>列順</target>
+</trans-unit>
+
+<trans-unit resname="Method">
+<target>メソッド</target>
+</trans-unit>
+
+<trans-unit resname="Per record">
+<target>レコード毎</target>
+</trans-unit>
+
+<trans-unit resname="Per label">
+<target>ラベル毎</target>
+</trans-unit>
+
+<trans-unit resname="fill">
+<target>背景色</target>
+</trans-unit>
+
+<trans-unit resname="stroke">
+<target>描画色</target>
+</trans-unit>
+
+<trans-unit resname="move frontmost">
+<target>最前面へ移動</target>
+</trans-unit>
+
+<trans-unit resname="move front">
+<target>前面へ移動</target>
+</trans-unit>
+
+<trans-unit resname="move back">
+<target>背面へ移動</target>
+</trans-unit>
+
+<trans-unit resname="move backmost">
+<target>最背面へ移動</target>
+</trans-unit>
+
+<trans-unit resname="z order">
+<target>順序</target>
+</trans-unit>
+
+<trans-unit resname="preserve aspect ratio">
+<target>アスペクト比を保持</target>
+</trans-unit>
+
+<trans-unit resname="select-tool">
+<target>選択</target>
+</trans-unit>
+
+<trans-unit resname="polyline-tool">
+<target>自由線</target>
+</trans-unit>
+
+<trans-unit resname="text-tool">
+<target>テキスト</target>
+</trans-unit>
+
+<trans-unit resname="line-tool">
+<target>直線</target>
+</trans-unit>
+
+<trans-unit resname="rect-tool">
+<target>四角形</target>
+</trans-unit>
+
+<trans-unit resname="circle-tool">
+<target>楕円</target>
+</trans-unit>
+
+<trans-unit resname="tool">
+<target>ツール</target>
+</trans-unit>
+
+<trans-unit resname="color">
+<target>色</target>
+</trans-unit>
+<trans-unit resname="image-option">
+<target>画像オプション</target>
+</trans-unit>
+<trans-unit resname="align-left">
+<target>左揃え</target>
+</trans-unit>
+<trans-unit resname="align-right">
+<target>右揃え</target>
+</trans-unit>
+<trans-unit resname="align-top">
+<target>上揃え</target>
+</trans-unit>
+<trans-unit resname="align-bottom">
+<target>下揃え</target>
+</trans-unit>
+<trans-unit resname="align-horizontal">
+<target>水平揃え</target>
+</trans-unit>
+<trans-unit resname="align-vertical">
+<target>垂直揃え</target>
+</trans-unit>
+<trans-unit resname="align">
+<target>整列</target>
+</trans-unit>
+
+<trans-unit resname="distribute-horizontal">
+<target>水平等間隔揃え</target>
+</trans-unit>
+<trans-unit resname="distribute-vertical">
+<target>垂直等間隔揃え</target>
+</trans-unit>
+
+<trans-unit resname="fill opacity">
+<target>背景色透明度</target>
+</trans-unit>
+<trans-unit resname="fill opacity 0">
+<target>背景色透明度 0%</target>
+</trans-unit>
+<trans-unit resname="fill opacity 10">
+<target>背景色透明度 10%</target>
+</trans-unit>
+<trans-unit resname="fill opacity 20">
+<target>背景色透明度 20%</target>
+</trans-unit>
+<trans-unit resname="fill opacity 30">
+<target>背景色透明度 30%</target>
+</trans-unit>
+<trans-unit resname="fill opacity 40">
+<target>背景色透明度 40%</target>
+</trans-unit>
+<trans-unit resname="fill opacity 50">
+<target>背景色透明度 50%</target>
+</trans-unit>
+<trans-unit resname="fill opacity 60">
+<target>背景色透明度 60%</target>
+</trans-unit>
+<trans-unit resname="fill opacity 70">
+<target>背景色透明度 70%</target>
+</trans-unit>
+<trans-unit resname="fill opacity 80">
+<target>背景色透明度 80%</target>
+</trans-unit>
+<trans-unit resname="fill opacity 90">
+<target>背景色透明度 90%</target>
+</trans-unit>
+<trans-unit resname="fill opacity 100">
+<target>背景色透明度 100%</target>
+</trans-unit>
+
+<trans-unit resname="stroke width">
+<target>線幅</target>
+</trans-unit>
+<trans-unit resname="stroke width 0">
+<target>線幅 0</target>
+</trans-unit>
+<trans-unit resname="stroke width 1">
+<target>線幅 1</target>
+</trans-unit>
+<trans-unit resname="stroke width 2">
+<target>線幅 2</target>
+</trans-unit>
+<trans-unit resname="stroke width 3">
+<target>線幅 3</target>
+</trans-unit>
+<trans-unit resname="stroke width 4">
+<target>線幅 4</target>
+</trans-unit>
+<trans-unit resname="stroke width 5">
+<target>線幅 5</target>
+</trans-unit>
+<trans-unit resname="stroke width 6">
+<target>線幅 6</target>
+</trans-unit>
+<trans-unit resname="stroke width 7">
+<target>線幅 7</target>
+</trans-unit>
+<trans-unit resname="stroke width 8">
+<target>線幅 8</target>
+</trans-unit>
+<trans-unit resname="stroke width 9">
+<target>線幅 9</target>
+</trans-unit>
+
+<trans-unit resname="stroke opacity">
+<target>描画色透明度</target>
+</trans-unit>
+<trans-unit resname="stroke opacity 0">
+<target>描画色透明度 0%</target>
+</trans-unit>
+<trans-unit resname="stroke opacity 10">
+<target>描画色透明度 10%</target>
+</trans-unit>
+<trans-unit resname="stroke opacity 20">
+<target>描画色透明度 20%</target>
+</trans-unit>
+<trans-unit resname="stroke opacity 30">
+<target>描画色透明度 30%</target>
+</trans-unit>
+<trans-unit resname="stroke opacity 40">
+<target>描画色透明度 40%</target>
+</trans-unit>
+<trans-unit resname="stroke opacity 50">
+<target>描画色透明度 50%</target>
+</trans-unit>
+<trans-unit resname="stroke opacity 60">
+<target>描画色透明度 60%</target>
+</trans-unit>
+<trans-unit resname="stroke opacity 70">
+<target>描画色透明度 70%</target>
+</trans-unit>
+<trans-unit resname="stroke opacity 80">
+<target>描画色透明度 80%</target>
+</trans-unit>
+<trans-unit resname="stroke opacity 90">
+<target>描画色透明度 90%</target>
+</trans-unit>
+<trans-unit resname="stroke opacity 100">
+<target>描画色透明度 100%</target>
+</trans-unit>
+
+<trans-unit resname="text style">
+<target>スタイル</target>
+</trans-unit>
+<trans-unit resname="text style bold">
+<target>ボールド</target>
+</trans-unit>
+<trans-unit resname="text style underline">
+<target>アンダーライン</target>
+</trans-unit>
+<trans-unit resname="text style italic">
+<target>イタリック</target>
+</trans-unit>
+
+<trans-unit resname="text align">
+<target>整列</target>
+</trans-unit>
+<trans-unit resname="text align left">
+<target>左揃え</target>
+</trans-unit>
+<trans-unit resname="text align center">
+<target>中央揃え</target>
+</trans-unit>
+<trans-unit resname="text align right">
+<target>右揃え</target>
+</trans-unit>
+
+<trans-unit resname="font size">
+<target>フォントサイズ</target>
+</trans-unit>
+<trans-unit resname="font size 9">
+<target>9</target>
+</trans-unit>
+<trans-unit resname="font size 10">
+<target>10</target>
+</trans-unit>
+<trans-unit resname="font size 11">
+<target>11</target>
+</trans-unit>
+<trans-unit resname="font size 12">
+<target>12</target>
+</trans-unit>
+<trans-unit resname="font size 13">
+<target>13</target>
+</trans-unit>
+<trans-unit resname="font size 14">
+<target>14</target>
+</trans-unit>
+<trans-unit resname="font size 16">
+<target>16</target>
+</trans-unit>
+<trans-unit resname="font size 18">
+<target>18</target>
+</trans-unit>
+<trans-unit resname="font size 20">
+<target>20</target>
+</trans-unit>
+<trans-unit resname="font size 22">
+<target>22</target>
+</trans-unit>
+<trans-unit resname="font size 24">
+<target>24</target>
+</trans-unit>
+<trans-unit resname="font size 36">
+<target>36</target>
+</trans-unit>
+
+<trans-unit resname="font name">
+<target>フォント...</target>
+</trans-unit>
+
+<trans-unit resname="Save...">
+<target>書き出し...</target>
+</trans-unit>
+
+<trans-unit resname="DataDump">
+<target>データチェック</target>
+</trans-unit>
+
+<trans-unit resname="ImageDump">
+<target>SVGチェック</target>
+</trans-unit>
+
+<trans-unit resname="OldEditor">
+<target>旧エディター</target>
+</trans-unit>
+
+<trans-unit resname="ToDesign">
+<target>デザインモード</target>
+</trans-unit>
+
+<trans-unit resname="PrintPreview">
+    <target>プレビュー</target>
+</trans-unit>
+
+<trans-unit resname="text-option">
+    <target>テキストオプション</target>
+</trans-unit>
+
+<trans-unit resname="barcode Supplemental5">
+    <target>Supplemental 5</target>
+</trans-unit>
+
+<trans-unit resname="barcode Supplemental2">
+    <target>Supplemental 2</target>
+</trans-unit>
+
+<trans-unit resname="barcode Interleaved2of5">
+    <target>Interleaved 2 of 5</target>
+</trans-unit>
+
+<trans-unit resname="barcode Industrial2of5">
+    <target>Industrial 2 of 5</target>
+</trans-unit>
+
+<trans-unit resname="barcode UPCE">
+    <target>UPC-E</target>
+</trans-unit>
+
+<trans-unit resname="barcode UPCA">
+    <target>UPC-A</target>
+</trans-unit>
+
+<trans-unit resname="barcode EAN13">
+    <target>EAN 13</target>
+</trans-unit>
+
+<trans-unit resname="barcode EAN8">
+    <target>EAN 8</target>
+</trans-unit>
+
+<trans-unit resname="barcode code128C">
+    <target>Code 128C</target>
+</trans-unit>
+
+<trans-unit resname="barcode code128B">
+    <target>Code 128B</target>
+</trans-unit>
+
+<trans-unit resname="barcode code128A">
+    <target>Code 128A</target>
+</trans-unit>
+
+<trans-unit resname="barcode code39">
+    <target>Code 39</target>
+</trans-unit>
+
+<trans-unit resname="barcode none">
+    <target>標準フォント</target>
+</trans-unit>
+
+<trans-unit resname="ImagesFolder">
+    <target>画像フォルダー</target>
+</trans-unit>
+
+</group>
+</body>
+</file>
+</xliff>
