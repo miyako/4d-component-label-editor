@@ -4,7 +4,7 @@ About
 -----
 4D v13/v14用のラベルエディター・コンポーネントです。
 
-![](https://github.com/miyako/4d-component-label-editor/blob/master/images/1.png)
+![](https://github.com/miyako/4d-component-label-editor/blob/master/images/3.png)
 
 **特徴**
 
@@ -39,7 +39,7 @@ End if
 
 * レイアウトページ
 
-![](https://github.com/miyako/4d-component-label-editor/blob/master/images/2.png) 
+![](https://github.com/miyako/4d-component-label-editor/blob/master/images/4.png) 
 
 ラベルのサイズ・用紙・レイアウトなどを決めることができます。
 
