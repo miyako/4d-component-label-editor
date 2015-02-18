@@ -160,6 +160,10 @@
 <target>テキスト</target>
 </trans-unit>
 
+<trans-unit resname="formula-tool">
+    <target>フォーミュラ</target>
+</trans-unit>
+
 <trans-unit resname="line-tool">
 <target>直線</target>
 </trans-unit>
@@ -417,6 +421,10 @@
     <target>テキストオプション</target>
 </trans-unit>
 
+<trans-unit resname="barcode qrcode">
+    <target>QRコード</target>
+</trans-unit>
+
 <trans-unit resname="barcode Supplemental5">
     <target>Supplemental 5</target>
 </trans-unit>
@@ -471,6 +479,10 @@
 
 <trans-unit resname="ImagesFolder">
     <target>画像フォルダー</target>
+</trans-unit>
+
+<trans-unit resname="Reset">
+    <target>クリア</target>
 </trans-unit>
 
 </group>

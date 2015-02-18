@@ -160,6 +160,10 @@
 <target>Text</target>
 </trans-unit>
 
+<trans-unit resname="formula-tool">
+    <target>Formula</target>
+</trans-unit>
+
 <trans-unit resname="line-tool">
 <target>Line</target>
 </trans-unit>
@@ -417,6 +421,10 @@
     <target>Text Option</target>
 </trans-unit>
 
+<trans-unit resname="barcode qrcode">
+    <target>QR code</target>
+</trans-unit>
+
 <trans-unit resname="barcode Supplemental5">
     <target>Supplemental 5</target>
 </trans-unit>
@@ -471,6 +479,10 @@
 
 <trans-unit resname="ImagesFolder">
     <target>Images Folder</target>
+</trans-unit>
+
+<trans-unit resname="Reset">
+    <target>Clear</target>
 </trans-unit>
 
 </group>

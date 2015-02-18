@@ -160,6 +160,10 @@
 <target>Texte</target>
 </trans-unit>
 
+<trans-unit resname="formula-tool">
+    <target>Formule</target>
+</trans-unit>
+
 <trans-unit resname="line-tool">
 <target>Ligne</target>
 </trans-unit>
@@ -417,6 +421,10 @@
     <target>Options de texte</target>
 </trans-unit>
 
+<trans-unit resname="barcode qrcode">
+    <target>QR code</target>
+</trans-unit>
+
 <trans-unit resname="barcode Supplemental5">
     <target>Supplemental 5</target>
 </trans-unit>
@@ -471,6 +479,10 @@
 
 <trans-unit resname="ImagesFolder">
     <target>Dossier d'images</target>
+</trans-unit>
+
+<trans-unit resname="Reset">
+    <target>Effacer</target>
 </trans-unit>
 
 </group>
