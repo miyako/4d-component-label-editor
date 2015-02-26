@@ -27,4 +27,11 @@ optionally you can specify whether to include the print settings structure by se
 
 you can now pass a 4LBX (XML) text instead of path. 
 
+**Modified**: ```LABEL_PRINT_SELECTION```
+
+you can now pass a 4LBX (XML) text instead of path. 
+
 **Fixed**: virtual structure support
+
+**Fixed**: memory leak in ```LABEL_PRINT_SELECTION```
+
