@@ -37,3 +37,6 @@ you can now pass a 4LBX (XML) text instead of path.
 
 **Fixed**: memory leak in ```LABEL_PRINT_SELECTION```
 
+**Fixed**: allowed method name list correctly handle method groups (@)
+
+**Fixed**: corrected some French localisation
