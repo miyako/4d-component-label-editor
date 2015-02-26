@@ -1,4 +1,5 @@
-* 2015-02-26
+2015-02-26
+---
 
 **New**:```boolean $success := LABEL_Convert_document (->blob|text $label{; boolean $withPrintSettings})``` 
 
@@ -14,3 +15,5 @@ not very useful, in the sense that you would probably want to use regular 4D com
 **Modified**: ```LABEL_OPEN_EDITOR```
 
 you can now pass a 4LBX (XML) text instead of path. 
+
+**Fixed***: virtual structure support
