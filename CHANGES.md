@@ -23,9 +23,11 @@ b. takes a BLOB .4LB document, on success, return the 4LBX (XML) as BLOB.
 
 optionally you can specify whether to include the print settings structure by setting $withPrintSettings to true. by default,  the information is excluded (it is not very useful and only increases the XML size). not very useful, in the sense that you would probably want to use regular 4D command to control the print settings.
 
-**Modified**: ```LABEL_OPEN_EDITOR```
+**Modified**: ```LABEL_OPEN_EDITOR (->table{; blob|text $labelIn{; ->blob|text $labelOut}})```
 
 you can now pass a 4LBX (XML) text instead of path. 
+
+optionally you can receive the new .4LBX (XML) if the editor dialog was accepted.
 
 **Modified**: ```LABEL_PRINT_SELECTION```
 
