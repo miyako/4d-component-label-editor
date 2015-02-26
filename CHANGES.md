@@ -16,4 +16,4 @@ not very useful, in the sense that you would probably want to use regular 4D com
 
 you can now pass a 4LBX (XML) text instead of path. 
 
-**Fixed***: virtual structure support
+**Fixed**: virtual structure support
