@@ -485,6 +485,14 @@
     <target>クリア</target>
 </trans-unit>
 
+<trans-unit resname="Cancel">
+    <target>キャンセル</target>
+</trans-unit>
+
+<trans-unit resname="Accept">
+    <target>OK</target>
+</trans-unit>
+
 </group>
 </body>
 </file>

@@ -97,11 +97,11 @@
 </trans-unit>
 
 <trans-unit resname="Vertical">
-<target>Vertical</target>
+<target>Left to right</target>
 </trans-unit>
 
 <trans-unit resname="Horizontal">
-<target>Horizontal</target>
+<target>Top to bottom</target>
 </trans-unit>
 
 <trans-unit resname="Method">
@@ -483,6 +483,14 @@
 
 <trans-unit resname="Reset">
     <target>Clear</target>
+</trans-unit>
+
+<trans-unit resname="Cancel">
+    <target>Cancel</target>
+</trans-unit>
+
+<trans-unit resname="Accept">
+    <target>OK</target>
 </trans-unit>
 
 </group>

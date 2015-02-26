@@ -17,7 +17,7 @@
 </trans-unit>
 
 <trans-unit resname="Layout">
-<target>Mise en page</target>
+<target>Disposition</target>
 </trans-unit>
 
 <trans-unit resname="Label">
@@ -49,27 +49,27 @@
 </trans-unit>
 
 <trans-unit resname="Top margin:">
-<target>Marge Haute:</target>
+<target>Marge haute:</target>
 </trans-unit>
 
 <trans-unit resname="Left margin:">
-<target>Marge Gauche:</target>
+<target>Marge gauche:</target>
 </trans-unit>
 
 <trans-unit resname="Right margin:">
-<target>Marge Droite:</target>
+<target>Marge droite:</target>
 </trans-unit>
 
 <trans-unit resname="Bottom margin:">
-<target>Marge Basse:</target>
+<target>Marge basse:</target>
 </trans-unit>
 
 <trans-unit resname="Horizontal gap:">
-<target>Séparation Horizontale:</target>
+<target>Séparation horizontale:</target>
 </trans-unit>
 
 <trans-unit resname="Vertical gap:">
-<target>Séparation Verticale:</target>
+<target>Séparation verticale:</target>
 </trans-unit>
 
 <trans-unit resname="Rows:">
@@ -85,7 +85,7 @@
 </trans-unit>
 
 <trans-unit resname="Labels per record:">
-<target>Étiquettes par enregistrement:</target>
+<target>Exemplaires:</target>
 </trans-unit>
 
 <trans-unit resname="Landscape">
@@ -97,11 +97,11 @@
 </trans-unit>
 
 <trans-unit resname="Vertical">
-<target>Vertical</target>
+<target>Gauche à droite</target>
 </trans-unit>
 
 <trans-unit resname="Horizontal">
-<target>Horizontal</target>
+<target>Haut en bas</target>
 </trans-unit>
 
 <trans-unit resname="Method">
@@ -109,7 +109,7 @@
 </trans-unit>
 
 <trans-unit resname="Per record">
-<target>Chaque champ</target>
+<target>Chaque enregistrement</target>
 </trans-unit>
 
 <trans-unit resname="Per label">
@@ -145,7 +145,7 @@
 </trans-unit>
 
 <trans-unit resname="preserve aspect ratio">
-<target>Préserver proportions</target>
+<target>Conserver les proportions</target>
 </trans-unit>
 
 <trans-unit resname="select-tool">
@@ -173,7 +173,7 @@
 </trans-unit>
 
 <trans-unit resname="circle-tool">
-<target>Oval</target>
+<target>Ovale</target>
 </trans-unit>
 
 <trans-unit resname="tool">
@@ -209,10 +209,10 @@
 </trans-unit>
 
 <trans-unit resname="distribute-horizontal">
-<target>Distribuer horizontalement</target>
+<target>Répartir horizontalement</target>
 </trans-unit>
 <trans-unit resname="distribute-vertical">
-<target>Distribuer verticalement</target>
+<target>Répartir verticalement</target>
 </trans-unit>
 
 <trans-unit resname="fill opacity">
@@ -330,14 +330,14 @@
 <target>Gras</target>
 </trans-unit>
 <trans-unit resname="text style underline">
-<target>Sousligné</target>
+<target>Souligné</target>
 </trans-unit>
 <trans-unit resname="text style italic">
 <target>Italique</target>
 </trans-unit>
 
 <trans-unit resname="text align">
-<target>Alignement de texte</target>
+<target>Alignement du texte</target>
 </trans-unit>
 <trans-unit resname="text align left">
 <target>Aligner à gauche</target>
@@ -350,7 +350,7 @@
 </trans-unit>
 
 <trans-unit resname="font size">
-<target>Taille Police</target>
+<target>Taille police</target>
 </trans-unit>
 <trans-unit resname="font size 9">
 <target>9</target>
@@ -402,7 +402,7 @@
 </trans-unit>
 
 <trans-unit resname="ImageDump">
-<target>Export Image</target>
+<target>Export image</target>
 </trans-unit>
 
 <trans-unit resname="OldEditor">
@@ -410,7 +410,7 @@
 </trans-unit>
 
 <trans-unit resname="ToDesign">
-<target>Mode Utilisateur</target>
+<target>Mode utilisateur</target>
 </trans-unit>
 
 <trans-unit resname="PrintPreview">
@@ -474,7 +474,7 @@
 </trans-unit>
 
 <trans-unit resname="barcode none">
-    <target>Police régulière</target>
+    <target>Police normale</target>
 </trans-unit>
 
 <trans-unit resname="ImagesFolder">
@@ -482,7 +482,15 @@
 </trans-unit>
 
 <trans-unit resname="Reset">
-    <target>Effacer</target>
+    <target>Nouveau</target>
+</trans-unit>
+
+<trans-unit resname="Cancel">
+    <target>Annuler</target>
+</trans-unit>
+
+<trans-unit resname="Accept">
+    <target>Mémoriser</target>
 </trans-unit>
 
 </group>
