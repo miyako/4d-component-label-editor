@@ -482,7 +482,7 @@
 </trans-unit>
 
 <trans-unit resname="Reset">
-    <target>Clear</target>
+    <target>New</target>
 </trans-unit>
 
 <trans-unit resname="Cancel">

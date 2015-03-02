@@ -482,7 +482,7 @@
 </trans-unit>
 
 <trans-unit resname="Reset">
-    <target>クリア</target>
+    <target>新規</target>
 </trans-unit>
 
 <trans-unit resname="Cancel">
