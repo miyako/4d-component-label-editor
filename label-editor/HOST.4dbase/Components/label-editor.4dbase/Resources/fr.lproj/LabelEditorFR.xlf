@@ -21,7 +21,7 @@
 </trans-unit>
 
 <trans-unit resname="Label">
-<target>Etiquettes</target>
+<target>Etiquette</target>
 </trans-unit>
 
 <trans-unit resname="Source">
@@ -117,7 +117,7 @@
 </trans-unit>
 
 <trans-unit resname="fill">
-<target>Plein</target>
+<target>Intérieur</target>
 </trans-unit>
 
 <trans-unit resname="stroke">
@@ -253,7 +253,7 @@
 </trans-unit>
 
 <trans-unit resname="stroke width">
-<target>Épaisseur contour</target>
+<target>Épaisseur du contour</target>
 </trans-unit>
 <trans-unit resname="stroke width 0">
 <target>Filet</target>
@@ -287,7 +287,7 @@
 </trans-unit>
 
 <trans-unit resname="stroke opacity">
-<target>Opacité Contour</target>
+<target>Opacité du contour</target>
 </trans-unit>
 <trans-unit resname="stroke opacity 0">
 <target>0%</target>
