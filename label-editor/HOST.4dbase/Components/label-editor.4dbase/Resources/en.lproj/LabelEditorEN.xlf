@@ -418,7 +418,7 @@
 </trans-unit>
 
 <trans-unit resname="text-option">
-    <target>Text Option</target>
+    <target>Text option</target>
 </trans-unit>
 
 <trans-unit resname="barcode qrcode">
@@ -491,6 +491,22 @@
 
 <trans-unit resname="Accept">
     <target>OK</target>
+</trans-unit>
+
+<trans-unit resname="word-wrap">
+    <target>Word wrap</target>
+</trans-unit>
+
+<trans-unit resname="word-wrap-enabled">
+    <target>Enabled</target>
+</trans-unit>
+
+<trans-unit resname="word-wrap-disabled">
+    <target>Disabled</target>
+</trans-unit>
+
+<trans-unit resname="barcode">
+    <target>Barcode</target>
 </trans-unit>
 
 </group>

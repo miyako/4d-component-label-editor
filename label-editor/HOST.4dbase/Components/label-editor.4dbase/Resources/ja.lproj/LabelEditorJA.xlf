@@ -493,6 +493,22 @@
     <target>OK</target>
 </trans-unit>
 
+<trans-unit resname="word-wrap">
+    <target>折り返し</target>
+</trans-unit>
+
+<trans-unit resname="word-wrap-enabled">
+    <target>する</target>
+</trans-unit>
+
+<trans-unit resname="word-wrap-disabled">
+    <target>しない</target>
+</trans-unit>
+
+<trans-unit resname="barcode">
+    <target>バーコード</target>
+</trans-unit>
+
 </group>
 </body>
 </file>

@@ -493,6 +493,22 @@
     <target>Mémoriser</target>
 </trans-unit>
 
+<trans-unit resname="word-wrap">
+    <target>Retour à la ligne</target>
+</trans-unit>
+
+<trans-unit resname="word-wrap-enabled">
+    <target>Oui</target>
+</trans-unit>
+
+<trans-unit resname="word-wrap-disabled">
+    <target>Non</target>
+</trans-unit>
+
+<trans-unit resname="barcode">
+    <target>Code-barres</target>
+</trans-unit>
+
 </group>
 </body>
 </file>
