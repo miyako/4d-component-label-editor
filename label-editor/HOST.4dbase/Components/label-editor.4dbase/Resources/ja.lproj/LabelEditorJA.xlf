@@ -509,6 +509,10 @@
     <target>バーコード</target>
 </trans-unit>
 
+<trans-unit resname="AutoWidth">
+    <target>用紙サイズに合わせる</target>
+</trans-unit>
+
 </group>
 </body>
 </file>

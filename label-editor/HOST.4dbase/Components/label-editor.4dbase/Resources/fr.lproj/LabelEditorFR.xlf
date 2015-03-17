@@ -509,6 +509,10 @@
     <target>Code-barres</target>
 </trans-unit>
 
+<trans-unit resname="AutoWidth">
+    <target>Taille automatique</target>
+</trans-unit>
+
 </group>
 </body>
 </file>

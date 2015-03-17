@@ -509,6 +509,10 @@
     <target>Barcode</target>
 </trans-unit>
 
+<trans-unit resname="AutoWidth">
+    <target>Automatic size</target>
+</trans-unit>
+
 </group>
 </body>
 </file>
