@@ -513,6 +513,10 @@
     <target>Taille automatique</target>
 </trans-unit>
 
+<trans-unit resname="Editor">
+    <target>Éditeur</target>
+</trans-unit>
+
 </group>
 </body>
 </file>

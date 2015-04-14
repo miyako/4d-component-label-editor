@@ -513,6 +513,10 @@
     <target>Automatic size</target>
 </trans-unit>
 
+<trans-unit resname="Editor">
+    <target>Editor</target>
+</trans-unit>
+
 </group>
 </body>
 </file>

@@ -513,6 +513,10 @@
     <target>用紙サイズに合わせる</target>
 </trans-unit>
 
+<trans-unit resname="Editor">
+    <target>エディター</target>
+</trans-unit>
+
 </group>
 </body>
 </file>
