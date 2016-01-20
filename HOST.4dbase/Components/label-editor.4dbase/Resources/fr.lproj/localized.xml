@@ -1,0 +1,356 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<rsrc>
+
+  <ope id="128" theme="Opérateurs sur les chaînes">
+    <item icon="310" label="Affectation" operator=":=" options="0"/>
+    <item icon="311" label="Concaténation" operator="+" options="-1"/>
+    <item icon="312" label="Répétition" operator="*" options="-1"/>
+    <item icon="329" label="Indices" operator="[[]]" options="-1"/>
+    <item icon="328" label="Chaîne vide" operator="&quot;&quot;" options="-1"/>
+  </ope>
+
+  <ope id="129" theme="Opérateurs sur les numériques">
+    <item icon="310" label="Affectation" operator=":=" options="0"/>
+    <item icon="311" label="Addition" operator="+" options="-1"/>
+    <item icon="313" label="Soustraction" operator="-" options="-1"/>
+    <item icon="312" label="Multiplication" operator="*" options="-1"/>
+    <item icon="314" label="Division" operator="/" options="-1"/>
+    <item icon="315" label="Division entière" operator="\" options="-1"/>
+    <item icon="316" label="Modulo" operator="%" options="-1"/>
+    <item icon="317" label="Exponentiation" operator="^" options="-1"/>
+  </ope>
+
+  <ope id="130" theme="Opérateurs sur les dates">
+    <item icon="310" label="Affectation" operator=":=" options="0"/>
+    <item icon="311" label="Addition" operator="+" options="-1"/>
+    <item icon="313" label="Différence" operator="-" options="-1"/>
+    <item icon="318" label="Date vierge" operator="!00/00/00!" options="-1"/>
+  </ope>
+
+  <ope id="131" theme="Opérateurs sur les heures">
+    <item icon="310" label="Affectation" operator=":=" options="0"/>
+    <item icon="311" label="Addition" operator="+" options="-1"/>
+    <item icon="313" label="Soustraction" operator="-" options="-1"/>
+    <item icon="312" label="Multiplication" operator="*" options="-1"/>
+    <item icon="314" label="Division" operator="/" options="-1"/>
+    <item icon="315" label="Division entière" operator="\" options="-1"/>
+    <item icon="316" label="Modulo" operator="%" options="-1"/>
+    <item icon="319" label="Heure vierge" operator="?00:00:00?" options="-1"/>
+  </ope>
+
+  <ope id="132" theme="Opérateurs de comparaison">
+    <item icon="320" label="Egalité" operator="=" options="-1"/>
+    <item icon="321" label="Inégalité" operator="#" options="-1"/>
+    <item icon="322" label="Supérieur à" operator=">" options="-1"/>
+    <item icon="323" label="Supérieur ou égal à" operator=">=" options="-1"/>
+    <item icon="324" label="Inférieur à" operator="&lt;" options="-1"/>
+    <item icon="325" label="Inférieur ou égal à" operator="&lt;=" options="-1"/>
+  </ope>
+
+  <ope id="133" theme="Opérateurs logiques">
+    <item icon="326" label="ET" operator="&amp;" options="-1"/>
+    <item icon="327" label="OU" operator="|" options="-1"/>
+  </ope>
+
+  <Eti4 across="5" down="13" hGap="0" height="60" left="27" name="4606/4270 Laser-print"
+    paper="A4(210 x 297 mm)" top="30" unit="point" vGap="0" width="108"/>
+  
+  <Eti4 across="4" down="16" hGap="0" height="47" left="23" name="4607/4271 Laser-print"
+    paper="A4(210 x 297 mm)" top="37" unit="point" vGap="0" width="136"/>
+  
+  <Eti4 across="4" down="11" hGap="0" height="72" left="23" name="4608/4272/5051/4680 Laser-print"
+    paper="A4(210 x 297 mm)" top="24" unit="point" vGap="0" width="136"/>
+  
+  <Eti4 across="4" down="14" hGap="0" height="60" left="0" name="4609/4273/5052/5080 Laser-print"
+    paper="A4(210 x 297 mm)" top="0" unit="point" vGap="0" width="148"/>
+  
+  <Eti4 across="4" down="10" hGap="0" height="84" left="0" name="4610/4274 Laser-print"
+    paper="A4(210 x 297 mm)" top="0" unit="point" vGap="0" width="148"/>
+  
+  <Eti4 across="3" down="7" hGap="0" height="108" left="20"
+    name="4677/5074 Laser-print, Ecken abgerundet" paper="A4(210 x 297 mm)" top="42" unit="point"
+    vGap="0" width="180"/>
+  
+  <Eti4 across="3" down="11" hGap="0" height="72" left="17" name="4613/4275 Laser-print"
+    paper="A4(210 x 297 mm)" top="24" unit="point" vGap="0" width="187"/>
+  
+  <Eti4 across="3" down="8" hGap="0" height="96" left="17" name="4614/4670/5053/4681 Laser-print"
+    paper="A4(210 x 297 mm)" top="36" unit="point" vGap="0" width="187"/>
+  
+  <Eti4 across="3" down="17" hGap="0" height="47" left="0" name="4611/4276 Laser-print"
+    paper="A4(210 x 297 mm)" top="13" unit="point" vGap="0" width="198"/>
+  
+  <Eti4 across="3" down="10" hGap="0" height="84" left="0" name="4612/4277 Laser-print"
+    paper="A4(210 x 297 mm)" top="0" unit="point" vGap="0" width="198"/>
+  
+  <Eti4 across="3" down="8" hGap="0" height="105" left="0" name="4615/4671 Laser-print"
+    paper="A4(210 x 297 mm)" top="0" unit="point" vGap="0" width="198"/>
+  
+  <Eti4 across="3" down="7" hGap="0" height="119" left="0" name="4616/4668/5054 Laser-print"
+    paper="A4(210 x 297 mm)" top="0" unit="point" vGap="0" width="198"/>
+  
+  <Eti4 across="3" down="5" hGap="0" height="144" left="0"
+    name="4618/4278/5055 Laser-print, 3,5&quot;&quot;-Disketten" paper="A4(210 x 297 mm)" top="60"
+    unit="point" vGap="0" width="198"/>
+  
+  <Eti4 across="3" down="4" hGap="0" height="191" left="0"
+    name="4617/4279 Laser-print, 3,5&quot;&quot;-Disketten" paper="A4(210 x 297 mm)" top="36"
+    unit="point" vGap="0" width="198"/>
+  
+  <Eti4 across="2" down="8" hGap="0" height="96" left="24" name="4619/4672 Laser-print"
+    paper="A4(210 x 297 mm)" top="36" unit="point" vGap="0" width="273"/>
+  
+  <Eti4 across="2" down="6" hGap="0" height="119" left="24" name="4623/4669/5056/4682 Laser-print"
+    paper="A4(210 x 297 mm)" top="61" unit="point" vGap="0" width="273"/>
+  
+  <Eti4 across="2" down="4" hGap="0" height="191" left="24" name="4624/4280 Laser-print"
+    paper="A4(210 x 297 mm)" top="36" unit="point" vGap="0" width="273"/>
+  
+  <Eti4 across="2" down="8" hGap="0" height="105" left="0" name="4620/4673 Laser-print"
+    paper="A4(210 x 297 mm)" top="0" unit="point" vGap="0" width="297"/>
+  
+  <Eti4 across="2" down="8" hGap="0" height="96" left="13"
+    name="4267/5075 Laser-print, Ecken abgerundet" paper="A4(210 x 297 mm)" top="36" unit="point"
+    vGap="0" width="280"/>
+  
+  <Eti4 across="2" down="7" hGap="0" height="108" left="13"
+    name="4678/5076 Laser-print, Ecken abgerundet" paper="A4(210 x 297 mm)" top="42" unit="point"
+    vGap="0" width="280"/>
+  
+  <Eti4 across="2" down="4" hGap="0" height="191" left="13"
+    name="4269/5077 Laser-print, Ecken abgerundet" paper="A4(210 x 297 mm)" top="36" unit="point"
+    vGap="0" width="280"/>
+  
+  <Eti4 across="2" down="7" hGap="0" height="119" left="0" name="4625/4674/5057/5058 Laser-print"
+    paper="A4(210 x 297 mm)" top="0" unit="point" vGap="0" width="297"/>
+  
+  <Eti4 across="2" down="5" hGap="0" height="144" left="0" name="4629/4281 Laser-print"
+    paper="A4(210 x 297 mm)" top="60" unit="point" vGap="0" width="297"/>
+  
+  <Eti4 across="2" down="4" hGap="0" height="210" left="0" name="4626/4675/5062 Laser-print, 8 x A7"
+    paper="A4(210 x 297 mm)" top="0" unit="point" vGap="0" width="297"/>
+  
+  <Eti4 across="2" down="2" hGap="0" height="420" left="0"
+    name="4627/4676/5063/5082 Laser-print, 4 x A6" paper="A4(210 x 297 mm)" top="0" unit="point"
+    vGap="0" width="297"/>
+  
+  <Eti4 across="2" down="2" hGap="0" height="297" left="0"
+    name="4627/4676/5063/5082 Laser-print, 4 x A6, quer" paper="A4 quer" top="0" unit="point"
+    vGap="0" width="420"/>
+  
+  <Eti4 across="1" down="2" hGap="0" height="420" left="0"
+    name="4628/4282/5064/4683 Laser-print, 2 x A5" paper="A4(210 x 297 mm)" top="0" unit="point"
+    vGap="0" width="595"/>
+  
+  <Eti4 across="2" down="1" hGap="0" height="595" left="0"
+    name="4628/4282/5064/4683 Laser-print, 2 x A5, quer" paper="A4 quer" top="0" unit="point"
+    vGap="0" width="420"/>
+  
+  <Eti4 across="1" down="1" hGap="0" height="841" left="0"
+    name="4631/4679/5065/4286 Laser-print, DIN A4" paper="A4(210 x 297 mm)" top="0" unit="point"
+    vGap="0" width="595"/>
+  
+  <Eti4 across="1" down="1" hGap="0" height="595" left="0"
+    name="4631/4679/5065/4286 Laser-print, DIN A4 quer" paper="A4 quer" top="0" unit="point"
+    vGap="0" width="841"/>
+  
+  <Eti4 across="1" down="6" hGap="22" height="110" left="25"
+    name="4283/5090/5091/5092 Laser-print Rückenschild" paper="A4(210 x 297 mm)" top="32"
+    unit="point" vGap="62" width="544"/>
+  
+  <Eti4 across="6" down="1" hGap="0" height="544" left="31"
+    name="4283/5090/5091/5092 Laser-print Rückenschild quer" paper="A4 quer" top="25" unit="point"
+    vGap="0" width="110"/>
+  
+  <Eti4 across="1" down="16" hGap="0" height="47" left="88" name="5069 Laser-print, Videocassette"
+    paper="A4(210 x 297 mm)" top="37" unit="point" vGap="0" width="417"/>
+  
+  <Eti4 across="2" down="6" hGap="0" height="131" left="38" name="5070 Laser-print, Videocassette"
+    paper="A4(210 x 297 mm)" top="25" unit="point" vGap="0" width="223"/>
+  
+  <Eti4 across="2" down="6" hGap="59" height="72" left="31" name="5072/5073 Laser-print, Pfeile"
+    paper="A4(210 x 297 mm)" top="55" unit="point" vGap="167" width="259"/>
+  
+  <Eti4 across="4" down="6" hGap="17" height="113" left="45" name="5066 Laser-print, Kreise 40 mm"
+    paper="A4(210 x 297 mm)" top="38" unit="point" vGap="48" width="113"/>
+  
+  <Eti4 across="3" down="4" hGap="19" height="170" left="22" name="5067 Laser-print, Kreise 60 mm"
+    paper="A4(210 x 297 mm)" top="51" unit="point" vGap="53" width="170"/>
+  
+  <Eti4 across="2" down="3" hGap="28" height="240" left="42" name="5068 Laser-print, Kreise 85 mm"
+    paper="A4(210 x 297 mm)" top="31" unit="point" vGap="79" width="240"/>
+  
+  <Eti4 across="7" down="32" hGap="0" height="24" left="24" name="8830 Ink-print, Preisauszeichnung"
+    paper="A4(210 x 297 mm)" top="36" unit="point" vGap="0" width="72"/>
+  
+  <Eti4 across="6" down="11" hGap="0" height="72" left="45" name="8831 Ink-print, quadratisch"
+    paper="A4(210 x 297 mm)" top="24" unit="point" vGap="0" width="72"/>
+  
+  <Eti4 across="6" down="16" hGap="0" height="47" left="20" name="8832 Ink-print, Preisauszeichnung"
+    paper="A4(210 x 297 mm)" top="36" unit="point" vGap="0" width="86"/>
+  
+  <Eti4 across="5" down="13" hGap="0" height="60" left="27" name="4810/8833 Ink-print"
+    paper="A4(210 x 297 mm)" top="30" unit="point" vGap="0" width="108"/>
+  
+  <Eti4 across="4" down="22" hGap="6" height="29" left="52" name="4829 Ink-print, Diabeschriftung"
+    paper="A4(210 x 297 mm)" top="28" unit="point" vGap="17" width="122"/>
+  
+  <Eti4 across="4" down="16" hGap="0" height="47" left="23" name="4811/8834 Ink-print"
+    paper="A4(210 x 297 mm)" top="37" unit="point" vGap="0" width="136"/>
+  
+  <Eti4 across="4" down="11" hGap="0" height="72" left="23" name="4812/8835/4841/4851 Ink-print"
+    paper="A4(210 x 297 mm)" top="24" unit="point" vGap="0" width="136"/>
+  
+  <Eti4 across="3" down="8" hGap="0" height="96" left="49"
+    name="8800/8836 Ink-print, Ecken abgerundet" paper="A4(210 x 297 mm)" top="36" unit="point"
+    vGap="0" width="151"/>
+  
+  <Eti4 across="3" down="11" hGap="0" height="72" left="20" name="8837 Ink-print, Ecken abgerundet"
+    paper="A4(210 x 297 mm)" top="24" unit="point" vGap="0" width="180"/>
+  
+  <Eti4 across="3" down="7" hGap="0" height="108" left="20"
+    name="8801/8838 Ink-print, Ecken abgerundet" paper="A4(210 x 297 mm)" top="42" unit="point"
+    vGap="0" width="180"/>
+  
+  <Eti4 across="3" down="6" hGap="0" height="132" left="20"
+    name="8802/8858 Ink-print, Ecken abgerundet" paper="A4(210 x 297 mm)" top="25" unit="point"
+    vGap="0" width="180"/>
+  
+  <Eti4 across="3" down="8" hGap="0" height="96" left="17" name="4814/4820/4842/4852 Ink-print"
+    paper="A4(210 x 297 mm)" top="36" unit="point" vGap="0" width="187"/>
+  
+  <Eti4 across="3" down="4" hGap="0" height="191" left="17"
+    name="4821 Ink-print, 3,5&quot;&quot;-Disketten" paper="A4(210 x 297 mm)" top="36" unit="point"
+    vGap="0" width="187"/>
+  
+  <Eti4 across="2" down="5" hGap="0" height="144" left="60"
+    name="8803/8839 Ink-print, 3,5&quot;&quot;-Disketten" paper="A4(210 x 297 mm)" top="60"
+    unit="point" vGap="0" width="201"/>
+  
+  <Eti4 across="2" down="5" hGap="0" height="144" left="52" name="8840 Ink-print, Visitenkarten sk"
+    paper="A4(210 x 297 mm)" top="60" unit="point" vGap="0" width="237"/>
+  
+  <Eti4 across="2" down="8" hGap="0" height="96" left="34"
+    name="8804/8841 Ink-print, Ecken abgerundet" paper="A4(210 x 297 mm)" top="36" unit="point"
+    vGap="0" width="252"/>
+  
+  <Eti4 across="2" down="6" hGap="0" height="132" left="34"
+    name="8805/8842 Ink-print, Ecken abgerundet" paper="A4(210 x 297 mm)" top="24" unit="point"
+    vGap="0" width="252"/>
+  
+  <Eti4 across="2" down="32" hGap="0" height="24" left="20" name="8843 Ink-print, Regalbeschriftung"
+    paper="A4(210 x 297 mm)" top="36" unit="point" vGap="0" width="273"/>
+  
+  <Eti4 across="2" down="16" hGap="0" height="47" left="20" name="8844 Ink-print, Regalbeschriftung"
+    paper="A4(210 x 297 mm)" top="36" unit="point" vGap="0" width="273"/>
+  
+  <Eti4 across="2" down="8" hGap="0" height="96" left="24" name="4815/4822 Ink-print"
+    paper="A4(210 x 297 mm)" top="36" unit="point" vGap="0" width="273"/>
+  
+  <Eti4 across="2" down="6" hGap="0" height="119" left="24" name="4816/4823/4843/4853 Ink-print"
+    paper="A4(210 x 297 mm)" top="61" unit="point" vGap="0" width="273"/>
+  
+  <Eti4 across="2" down="5" hGap="0" height="144" left="20"
+    name="8806/8845 Ink-print, Ecken abgerundet" paper="A4(210 x 297 mm)" top="60" unit="point"
+    vGap="0" width="273"/>
+  
+  <Eti4 across="2" down="4" hGap="0" height="191" left="24" name="4817/8846 Ink-print"
+    paper="A4(210 x 297 mm)" top="36" unit="point" vGap="0" width="273"/>
+  
+  <Eti4 across="2" down="2" hGap="0" height="396" left="20" name="8807/8847 Ink-print, ca. A6"
+    paper="A4(210 x 297 mm)" top="24" unit="point" vGap="0" width="273"/>
+  
+  <Eti4 across="2" down="2" hGap="7" height="273" left="24"
+    name="8807/8847 quer Ink-print, ca. A6, quer" paper="A4 quer" top="20" unit="point" vGap="19"
+    width="396"/>
+  
+  <Eti4 across="2" down="8" hGap="0" height="96" left="13"
+    name="8808/8859 Ink-print, Ecken abgerundet" paper="A4(210 x 297 mm)" top="36" unit="point"
+    vGap="0" width="280"/>
+  
+  <Eti4 across="2" down="7" hGap="0" height="108" left="13"
+    name="8809/8860 Ink-print, Ecken abgerundet" paper="A4(210 x 297 mm)" top="42" unit="point"
+    vGap="0" width="280"/>
+  
+  <Eti4 across="2" down="4" hGap="0" height="191" left="13"
+    name="8810/8862 Ink-print, Ecken abgerundet" paper="A4(210 x 297 mm)" top="36" unit="point"
+    vGap="0" width="280"/>
+  
+  <Eti4 across="1" down="32" hGap="0" height="24" left="25" name="8848 Ink-print, Regalbeschriftung"
+    paper="A4(210 x 297 mm)" top="36" unit="point" vGap="0" width="544"/>
+  
+  <Eti4 across="1" down="16" hGap="0" height="47" left="25" name="8849 Ink-print, Regalbeschriftung"
+    paper="A4(210 x 297 mm)" top="36" unit="point" vGap="0" width="544"/>
+  
+  <Eti4 across="1" down="2" hGap="0" height="396" left="25" name="8811/8850 Ink-print, ca. DIN A5"
+    paper="A4(210 x 297 mm)" top="24" unit="point" vGap="0" width="544"/>
+  
+  <Eti4 across="2" down="1" hGap="0" height="544" left="24"
+    name="8811/8850 quer Ink-print, ca. DIN A5, quer" paper="A4 quer" top="25" unit="point" vGap="0"
+    width="396"/>
+  
+  <Eti4 across="1" down="1" hGap="0" height="841" left="0"
+    name="4819/4824/4844/4854 Ink-print, DIN A4" paper="A4(210 x 297 mm)" top="0" unit="point"
+    vGap="0" width="595"/>
+  
+  <Eti4 across="1" down="1" hGap="0" height="595" left="0"
+    name="4819/4824/4844/4854 Ink-print, DIN A4, quer" paper="A4 quer" top="0" unit="point" vGap="0"
+    width="841"/>
+  
+  <Eti4 across="1" down="6" hGap="22" height="110" left="25" name="4825 Ink-print Rückenschild"
+    paper="A4(210 x 297 mm)" top="32" unit="point" vGap="62" width="544"/>
+  
+  <Eti4 across="6" down="1" hGap="0" height="544" left="32"
+    name="4825 quer Ink-print Rückenschild, quer" paper="A4 quer" top="25" unit="point" vGap="0"
+    width="110"/>
+  
+  <Eti4 across="1" down="4" hGap="22" height="174" left="25" name="4826 Ink-print Rückenschild"
+    paper="A4(210 x 297 mm)" top="38" unit="point" vGap="62" width="544"/>
+  
+  <Eti4 across="4" down="1" hGap="0" height="544" left="38"
+    name="4826 quer Ink-print Rückenschild, quer" paper="A4 quer" top="25" unit="point" vGap="0"
+    width="174"/>
+  
+  <Eti4 across="5" down="1" hGap="0" height="807" left="21" name="4830 Ink-print Rückenschild"
+    paper="A4(210 x 297 mm)" top="17" unit="point" vGap="0" width="110"/>
+  
+  <Eti4 across="1" down="5" hGap="0" height="110" left="17"
+    name="4830 quer Ink-print Rückenschild, quer" paper="A4 quer" top="21" unit="point" vGap="0"
+    width="807"/>
+  
+  <Eti4 across="3" down="1" hGap="0" height="807" left="36" name="4831 Ink-print Rückenschild"
+    paper="A4(210 x 297 mm)" top="17" unit="point" vGap="0" width="174"/>
+  
+  <Eti4 across="1" down="3" hGap="0" height="174" left="17"
+    name="4831 quer Ink-print Rückenschild, quer" paper="A4 quer" top="36" unit="point" vGap="0"
+    width="807"/>
+  
+  <Eti4 across="1" down="16" hGap="0" height="47" left="88" name="4827 Ink-print, Videocassette"
+    paper="A4(210 x 297 mm)" top="37" unit="point" vGap="0" width="417"/>
+  
+  <Eti4 across="2" down="6" hGap="0" height="131" left="38" name="4828 Ink-print, Videocassette"
+    paper="A4(210 x 297 mm)" top="25" unit="point" vGap="0" width="223"/>
+  
+  <Eti4 across="6" down="6" hGap="11" height="119" left="45"
+    name="8856 Ink-print, Registeretiketten" paper="A4(210 x 297 mm)" top="30" unit="point"
+    vGap="31" width="72"/>
+  
+  <Eti4 across="3" down="4" hGap="11" height="180" left="20" name="8857 Sterne"
+    paper="A4(210 x 297 mm)" top="42" unit="point" vGap="31" width="180"/>
+  
+  <Eti4 across="5" down="7" hGap="17" height="90" left="36" name="8851 Kreise"
+    paper="A4(210 x 297 mm)" top="51" unit="point" vGap="48" width="90"/>
+  
+  <Eti4 across="3" down="4" hGap="11" height="180" left="20" name="8852 Kreise"
+    paper="A4(210 x 297 mm)" top="42" unit="point" vGap="31" width="180"/>
+  
+  <Eti4 across="3" down="6" hGap="11" height="119" left="34" name="8853 Oval"
+    paper="A4(210 x 297 mm)" top="30" unit="point" vGap="31" width="165"/>
+  
+  <Eti4 across="2" down="4" hGap="11" height="180" left="38" name="8854 Oval"
+    paper="A4(210 x 297 mm)" top="42" unit="point" vGap="31" width="252"/>
+  
+  <Eti4 across="2" down="4" hGap="0" height="191" left="34" name="8855 Ecken schräg"
+    paper="A4(210 x 297 mm)" top="36" unit="point" vGap="0" width="252"/>
+
+</rsrc>

@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="http://www.w3.org/1999/xhtml" version="1.0">
+<file datatype="x-STR#" original="undefined" product-version="v13" source-language="en-US" target-language="ja">
+<header>
+<note/>
+</header>
+<body>
+<group>
+    <trans-unit id="1-1-j" resname="ＤＦＰ勘亭流">
+    <target>DFPKanTeiRyu-XB,ＤＦＰ勘亭流,serif</target>
+    </trans-unit>
+    <trans-unit id="1-1-e" resname="DFPKanTeiRyu-XB">
+    <target>DFPKanTeiRyu-XB,ＤＦＰ勘亭流,serif</target>
+    </trans-unit>
+    <trans-unit id="1-2-j" resname="ＤＦＰ教科書体W3">
+    <target>DFPKyoKaSho-W3,ＤＦＰ教科書体W3,serif</target>
+    </trans-unit>
+    <trans-unit id="1-2-e" resname="DFPKyoKaSho-W3">
+    <target>DFPKyoKaSho-W3,ＤＦＰ教科書体W3,serif</target>
+    </trans-unit>
+    <trans-unit id="1-3-j" resname="ＤＦＰ行書体">
+    <target>DFPGyoSho-Lt,ＤＦＰ行書体,serif</target>
+    </trans-unit>
+    <trans-unit id="1-3-e" resname="DFPGyoSho-Lt">
+    <target>DFPGyoSho-Lt,ＤＦＰ行書体,serif</target>
+    </trans-unit>
+    <trans-unit id="1-4-j" resname="ＤＦＰ祥南行書体W5">
+    <target>DFPSNGyoSho-W5,ＤＦＰ祥南行書体W5,serif</target>
+    </trans-unit>
+    <trans-unit id="1-4-e" resname="DFPSNGyoSho-W5">
+    <target>DFPSNGyoSho-W5,ＤＦＰ祥南行書体W5,serif</target>
+    </trans-unit>
+    <trans-unit id="1-5-j" resname="ＤＦＰ痩金体W3">
+    <target>DFPSoKing-W3,ＤＦＰ痩金体W3,serif</target>
+    </trans-unit>
+    <trans-unit id="1-5-e" resname="DFPSoKing-W3">
+    <target>DFPSoKing-W3,ＤＦＰ痩金体W3,serif</target>
+    </trans-unit>
+    <trans-unit id="1-6-j" resname="ＤＦＰ太丸ゴシック体">
+    <target>DFPMaruGothic-SB,ＤＦＰ太丸ゴシック体,sans-serif</target>
+    </trans-unit>
+    <trans-unit id="1-6-e" resname="DFPMaruGothic-SB">
+    <target>DFPMaruGothic-SB,ＤＦＰ太丸ゴシック体,sans-serif</target>
+    </trans-unit>
+    <trans-unit id="1-7-j" resname="ＤＦＰ中楷書体">
+    <target>DFPKaiSho-Md,ＤＦＰ中楷書体,serif</target>
+    </trans-unit>
+    <trans-unit id="1-7-e" resname="DFPKaiSho-Md">
+    <target>DFPKaiSho-Md,ＤＦＰ中楷書体,serif</target>
+    </trans-unit>
+    <trans-unit id="1-8-j" resname="ＤＦＰ隷書体">
+    <target>DFPLeiSho-SB,ＤＦＰ隷書体,serif</target>
+    </trans-unit>
+    <trans-unit id="1-8-e" resname="DFPLeiSho-SB">
+    <target>DFPLeiSho-SB,ＤＦＰ隷書体,serif</target>
+    </trans-unit>
+    <trans-unit id="1-9-j" resname="HGPｺﾞｼｯｸE">
+    <target>HGPGothicE,HGPｺﾞｼｯｸE,sans-serif</target>
+    </trans-unit>
+    <trans-unit id="1-9-e" resname="HGPGothicE">
+    <target>HGPGothicE,HGPｺﾞｼｯｸE,sans-serif</target>
+    </trans-unit>
+    <trans-unit id="1-11-j" resname="HGP創英角ｺﾞｼｯｸUB">
+    <target>HGPSoeiKakugothicUB,HGP創英角ｺﾞｼｯｸUB,sans-serif</target>
+    </trans-unit>
+    <trans-unit id="1-11-e" resname="HGPSoeiKakugothicUB">
+    <target>HGPSoeiKakugothicUB,HGP創英角ｺﾞｼｯｸUB,sans-serif</target>
+    </trans-unit>
+    <trans-unit id="1-12-j" resname="HGP明朝E">
+    <target>HGPMinchoE,HGP明朝E,serif</target>
+    </trans-unit>
+    <trans-unit id="1-12-e" resname="HGPMinchoE">
+    <target>HGPMinchoE,HGP明朝E,serif</target>
+    </trans-unit>
+    <trans-unit id="1-14-j" resname="HGSｺﾞｼｯｸE">
+    <target>HGSGothicE,HGSｺﾞｼｯｸE,sans-serif</target>
+    </trans-unit>
+    <trans-unit id="1-14-e" resname="HGSGothicE">
+    <target>HGSGothicE,HGSｺﾞｼｯｸE,sans-serif</target>
+    </trans-unit>
+    <trans-unit id="1-15-j" resname="HGS創英角ｺﾞｼｯｸUB">
+    <target>HGSSoeiKakugothicUB,HGS創英角ｺﾞｼｯｸUB,sans-serif</target>
+    </trans-unit>
+    <trans-unit id="1-15-e" resname="HGSSoeiKakugothicUB">
+    <target>HGSSoeiKakugothicUB,HGS創英角ｺﾞｼｯｸUB,sans-serif</target>
+    </trans-unit>
+    <trans-unit id="1-17-j" resname="HGS明朝E">
+    <target>HGSMinchoE,HGS明朝E,serif</target>
+    </trans-unit>
+    <trans-unit id="1-17-e" resname="HGSMinchoE">
+    <target>HGSMinchoE,HGS明朝E,serif</target>
+    </trans-unit>
+    <trans-unit id="1-19-j" resname="HGｺﾞｼｯｸE">
+    <target>HGGothicE,HGｺﾞｼｯｸE,sans-serif</target>
+    </trans-unit>
+    <trans-unit id="1-19-e" resname="HGGothicE">
+    <target>HGGothicE,HGｺﾞｼｯｸE,sans-serif</target>
+    </trans-unit>
+    <trans-unit id="1-21-j" resname="HG丸ｺﾞｼｯｸM-PRO">
+    <target>HGMaruGothicMPRO,HG丸ｺﾞｼｯｸM-PRO,sans-serif</target>
+    </trans-unit>
+    <trans-unit id="1-21-e" resname="HGMaruGothicMPRO">
+    <target>HGMaruGothicMPRO,HG丸ｺﾞｼｯｸM-PRO,sans-serif</target>
+    </trans-unit>
+    <trans-unit id="1-23-j" resname="HG創英角ｺﾞｼｯｸUB">
+    <target>HGSoeiKakugothicUB,HG創英角ｺﾞｼｯｸUB,sans-serif</target>
+    </trans-unit>
+    <trans-unit id="1-23-e" resname="HGSoeiKakugothicUB">
+    <target>HGSoeiKakugothicUB,HG創英角ｺﾞｼｯｸUB,sans-serif</target>
+    </trans-unit>
+    <trans-unit id="1-25-j" resname="HG明朝E">
+    <target>HGMinchoE,HG明朝E,serif</target>
+    </trans-unit>
+    <trans-unit id="1-25-e" resname="HGMinchoE">
+    <target>HGMinchoE,HG明朝E,serif</target>
+    </trans-unit>
+    <trans-unit id="1-27-j" resname="ＭＳ Ｐゴシック">
+    <target>'MS PGothic','ＭＳ Ｐゴシック',sans-serif</target>
+    </trans-unit>
+    <trans-unit id="1-27-e" resname="MS PGothic">
+    <target>'MS PGothic','ＭＳ Ｐゴシック',sans-serif</target>
+    </trans-unit>
+    <trans-unit id="1-29-j" resname="ＭＳ Ｐ明朝">
+    <target>'MS PMincho','ＭＳ Ｐ明朝',serif</target>
+    </trans-unit>
+    <trans-unit id="1-29-e" resname="MS PMincho">
+    <target>'MS PMincho','ＭＳ Ｐ明朝',serif</target>
+    </trans-unit>
+    <trans-unit id="1-31-j" resname="ＭＳ ゴシック">
+    <target>'MS Gothic','ＭＳ ゴシック',sans-serif</target>
+    </trans-unit>
+    <trans-unit id="1-31-e" resname="MS Gothic">
+    <target>'MS Gothic','ＭＳ ゴシック',sans-serif</target>
+    </trans-unit>
+    <trans-unit id="1-33-j" resname="ＭＳ 明朝">
+    <target>'MS Mincho','ＭＳ 明朝',serif</target>
+    </trans-unit>
+    <trans-unit id="1-33-e" resname="MS Mincho">
+    <target>'MS Mincho','ＭＳ 明朝',serif</target>
+    </trans-unit>
+    <trans-unit id="1-35-j" resname="Osaka">
+    <target>Osaka,Osaka,sans-serif</target>
+    </trans-unit>
+    <trans-unit id="1-36-j" resname="ヒラギノ角ゴ Std W8">
+    <target>'Hiragino Kaku Gothic Std W8','ヒラギノ角ゴ Std W8',HiraKakuStd-W8,sans-serif</target>
+    </trans-unit>
+    <trans-unit id="1-36-e" resname="Hiragino Kaku Gothic Std W8">
+    <target>'Hiragino Kaku Gothic Std W8','ヒラギノ角ゴ Std W8',HiraKakuStd-W8,sans-serif</target>
+    </trans-unit>
+    <trans-unit id="1-37-j" resname="ヒラギノ角ゴ StdN W8">
+    <target>'Hiragino Kaku Gothic StdN W8','ヒラギノ角ゴ StdN W8',HiraKakuStdN-W8,sans-serif</target>
+    </trans-unit>
+    <trans-unit id="1-37-e" resname="Hiragino Kaku Gothic StdN W8">
+    <target>'Hiragino Kaku Gothic StdN W8','ヒラギノ角ゴ StdN W8',HiraKakuStdN-W8,sans-serif</target>
+    </trans-unit>
+    <trans-unit id="1-38-j" resname="ヒラギノ丸ゴ Pro W4">
+    <target>'Hiragino Maru Gothic Pro W4','ヒラギノ丸ゴ Pro W4',HiraMaruPro-W4,sans-serif</target>
+    </trans-unit>
+    <trans-unit id="1-38-e" resname="Hiragino Maru Gothic Pro W4">
+    <target>'Hiragino Maru Gothic Pro W4','ヒラギノ丸ゴ Pro W4',HiraMaruPro-W4,sans-serif</target>
+    </trans-unit>
+    <trans-unit id="1-39-j" resname="ヒラギノ丸ゴ ProN W4">
+    <target>'Hiragino Maru Gothic ProN W4','ヒラギノ丸ゴ ProN W4',HiraMaruProN-W4,sans-serif</target>
+    </trans-unit>
+    <trans-unit id="1-39-e" resname="Hiragino Maru Gothic ProN W4">
+    <target>'Hiragino Maru Gothic ProN W4','ヒラギノ丸ゴ ProN W4',HiraMaruProN-W4,sans-serif</target>
+    </trans-unit>
+    <trans-unit id="1-40-j" resname="ヒラギノ角ゴ ProN W3">
+    <target>'Hiragino Kaku Gothic ProN W3','ヒラギノ角ゴ ProN W3',HiraKakuProN-W3,sans-serif</target>
+    </trans-unit>
+    <trans-unit id="1-40-e" resname="Hiragino Kaku Gothic ProN W3">
+    <target>'Hiragino Kaku Gothic ProN W3','ヒラギノ角ゴ ProN W3',HiraKakuProN-W3,sans-serif</target>
+    </trans-unit>
+    <trans-unit id="1-41-j" resname="ヒラギノ角ゴ Pro W3">
+    <target>'Hiragino Kaku Gothic Pro W3','ヒラギノ角ゴ Pro W3',HiraKakuPro-W3,sans-serif</target>
+    </trans-unit>
+    <trans-unit id="1-41-e" resname="Hiragino Kaku Gothic Pro W3">
+    <target>'Hiragino Kaku Gothic Pro W3','ヒラギノ角ゴ Pro W3',HiraKakuPro-W3,sans-serif</target>
+    </trans-unit>
+    <trans-unit id="1-42-j" resname="ヒラギノ明朝 Pro W3">
+    <target>'Hiragino Mincho Pro W3','ヒラギノ明朝 Pro W3',HiraMinPro-W3,serif</target>
+    </trans-unit>
+    <trans-unit id="1-42-e" resname="Hiragino Mincho Pro W3">
+    <target>'Hiragino Mincho Pro W3','ヒラギノ明朝 Pro W3',HiraMinPro-W3,serif</target>
+    </trans-unit>
+    <trans-unit id="1-43-j" resname="ヒラギノ明朝 ProN W3">
+    <target>'Hiragino Mincho ProN W3','ヒラギノ明朝 ProN W3',HiraMinProN-W3,serif</target>
+    </trans-unit>
+    <trans-unit id="1-43-e" resname="Hiragino Mincho ProN W3">
+    <target>'Hiragino Mincho ProN W3','ヒラギノ明朝 ProN W3',HiraMinProN-W3,serif</target>
+    </trans-unit>
+    <trans-unit id="1-44-j" resname="ヒラギノ角ゴ ProN W6">
+    <target>'Hiragino Kaku Gothic ProN W6','ヒラギノ角ゴ ProN W6',HiraKakuProN-W6,sans-serif</target>
+    </trans-unit>
+    <trans-unit id="1-44-e" resname="Hiragino Kaku Gothic ProN W6">
+    <target>'Hiragino Kaku Gothic ProN W6','ヒラギノ角ゴ ProN W6',HiraKakuProN-W6,sans-serif</target>
+    </trans-unit>
+    <trans-unit id="1-45-j" resname="ヒラギノ角ゴ Pro W6">
+    <target>'Hiragino Kaku Gothic Pro W6','ヒラギノ角ゴ Pro W6',HiraKakuPro-W6,sans-serif</target>
+    </trans-unit>
+    <trans-unit id="1-45-e" resname="Hiragino Kaku Gothic Pro W6">
+    <target>'Hiragino Kaku Gothic Pro W6','ヒラギノ角ゴ Pro W6',HiraKakuPro-W6,sans-serif</target>
+    </trans-unit>
+    <trans-unit id="1-46-j" resname="ヒラギノ明朝 Pro W6">
+    <target>'Hiragino Mincho Pro W6','ヒラギノ明朝 Pro W6',HiraMinPro-W6,serif</target>
+    </trans-unit>
+    <trans-unit id="1-46-e" resname="Hiragino Mincho Pro W6">
+    <target>'Hiragino Mincho Pro W6','ヒラギノ明朝 Pro W6',HiraMinPro-W6,serif</target>
+    </trans-unit>
+    <trans-unit id="1-47-j" resname="ヒラギノ明朝 ProN W6">
+    <target>'Hiragino Mincho ProN W6','ヒラギノ明朝 ProN W6',HiraMinProN-W6,serif</target>
+    </trans-unit>
+    <trans-unit id="1-47-e" resname="Hiragino Mincho ProN W6">
+    <target>'Hiragino Mincho ProN W6','ヒラギノ明朝 ProN W6',HiraMinProN-W6,serif</target>
+    </trans-unit>
+    <trans-unit id="1-48-j" resname="メイリオ">
+    <target>Meiryo,メイリオ,sans-serif</target>
+    </trans-unit>
+    <trans-unit id="1-48-e" resname="Meiryo">
+    <target>Meiryo,メイリオ,sans-serif</target>
+    </trans-unit>
+</group>
+
+<group>
+    <trans-unit id="2-1-e" resname="#Hiragino Kaku Gothic Pro">
+        <target>ヒラギノ角ゴ Pro</target>
+    </trans-unit>
+    <trans-unit id="2-2-e" resname="#Hiragino Kaku Gothic ProN">
+        <target>ヒラギノ角ゴ ProN</target>
+    </trans-unit>
+    <trans-unit id="2-3-e" resname="#Hiragino Kaku Gothic Std">
+        <target>ヒラギノ角ゴ Std</target>
+    </trans-unit>   
+    <trans-unit id="2-4-e" resname="#Hiragino Kaku Gothic StdN">
+        <target>ヒラギノ角ゴ StdN</target>
+    </trans-unit>      
+    <trans-unit id="2-5-e" resname="#Hiragino Maru Gothic Pro">
+        <target>ヒラギノ丸ゴ Pro</target>
+    </trans-unit>   
+    <trans-unit id="2-6-e" resname="#Hiragino Maru Gothic ProN">
+        <target>ヒラギノ丸ゴ ProN</target>
+    </trans-unit>       
+    <trans-unit id="2-7-e" resname="#Hiragino Mincho Pro">
+        <target>ヒラギノ明朝 Pro</target>
+    </trans-unit>      
+    <trans-unit id="2-8-e" resname="#Hiragino Mincho ProN">
+        <target>ヒラギノ明朝 ProN</target>
+    </trans-unit>  
+    <trans-unit id="1-1-e" resname="#DFPKanTeiRyu-XB">
+        <target>ＤＦＰ勘亭流</target>
+    </trans-unit>
+    <trans-unit id="1-2-e" resname="#DFPKyoKaSho-W3">
+        <target>ＤＦＰ教科書体W3</target>
+    </trans-unit>
+    <trans-unit id="1-3-e" resname="#DFPGyoSho-Lt">
+        <target>ＤＦＰ行書体</target>
+    </trans-unit>
+    <trans-unit id="1-4-e" resname="#DFPSNGyoSho-W5">
+        <target>ＤＦＰ祥南行書体W5</target>
+    </trans-unit>
+    <trans-unit id="1-5-e" resname="#DFPSoKing-W3">
+        <target>ＤＦＰ痩金体W3</target>
+    </trans-unit>
+    <trans-unit id="1-6-e" resname="#DFPMaruGothic-SB">
+        <target>ＤＦＰ太丸ゴシック体</target>
+    </trans-unit>
+    <trans-unit id="1-7-e" resname="#DFPKaiSho-Md">
+        <target>ＤＦＰ中楷書体</target>
+    </trans-unit>
+    <trans-unit id="1-8-e" resname="#DFPLeiSho-SB">
+        <target>ＤＦＰ隷書体</target>
+    </trans-unit>
+    <trans-unit id="1-9-e" resname="#HGPGothicE">
+        <target>HGPｺﾞｼｯｸE</target>
+    </trans-unit>
+    <trans-unit id="1-11-e" resname="#HGPSoeiKakugothicUB">
+        <target>HGP創英角ｺﾞｼｯｸUB</target>
+    </trans-unit>
+    <trans-unit id="1-12-e" resname="#HGPMinchoE">
+        <target>HGP明朝E</target>
+    </trans-unit>
+    <trans-unit id="1-14-e" resname="#HGSGothicE">
+        <target>HGSｺﾞｼｯｸE</target>
+    </trans-unit>
+    <trans-unit id="1-15-e" resname="#HGSSoeiKakugothicUB">
+        <target>HGS創英角ｺﾞｼｯｸUB</target>
+    </trans-unit>
+    <trans-unit id="1-17-e" resname="#HGSMinchoE">
+        <target>HGS明朝E</target>
+    </trans-unit>
+    <trans-unit id="1-19-e" resname="#HGGothicE">
+        <target>HGｺﾞｼｯｸE</target>
+    </trans-unit>
+    <trans-unit id="1-21-e" resname="#HGMaruGothicMPRO">
+        <target>HG丸ｺﾞｼｯｸM-PRO</target>
+    </trans-unit>
+    <trans-unit id="1-23-e" resname="#HGSoeiKakugothicUB">
+        <target>HG創英角ｺﾞｼｯｸUB</target>
+    </trans-unit>
+    <trans-unit id="1-25-e" resname="#HGMinchoE">
+        <target>HG明朝E</target>
+    </trans-unit>
+    <trans-unit id="1-27-e" resname="#MS PGothic">
+        <target>ＭＳ Ｐゴシック</target>
+    </trans-unit>
+    <trans-unit id="1-29-e" resname="#MS PMincho">
+        <target>ＭＳ Ｐ明朝</target>
+    </trans-unit>
+    <trans-unit id="1-31-e" resname="#MS Gothic">
+        <target>ＭＳ ゴシック</target>
+    </trans-unit>
+    <trans-unit id="1-33-e" resname="#MS Mincho">
+        <target>ＭＳ 明朝</target>
+    </trans-unit>
+    <trans-unit id="1-48-e" resname="#Meiryo">
+        <target>メイリオ</target>
+    </trans-unit>
+</group> 
+<group> 
+    <trans-unit id="3-1-e" resname=".Hiragino Kaku Gothic Pro">
+        <target>ヒラギノ角ゴ Pro W3</target>
+    </trans-unit>
+    <trans-unit id="3-2-e" resname=".Hiragino Kaku Gothic ProN">
+        <target>ヒラギノ角ゴ ProN W3</target>
+    </trans-unit>
+    <trans-unit id="3-3-e" resname=".Hiragino Kaku Gothic Std">
+        <target>ヒラギノ角ゴ Std W8</target>
+    </trans-unit>   
+    <trans-unit id="3-4-e" resname=".Hiragino Kaku Gothic StdN">
+        <target>ヒラギノ角ゴ StdN W8</target>
+    </trans-unit>      
+    <trans-unit id="3-5-e" resname=".Hiragino Maru Gothic Pro">
+        <target>ヒラギノ丸ゴ Pro W4</target>
+    </trans-unit>   
+    <trans-unit id="3-6-e" resname=".Hiragino Maru Gothic ProN">
+        <target>ヒラギノ丸ゴ ProN W4</target>
+    </trans-unit>       
+    <trans-unit id="3-7-e" resname=".Hiragino Mincho Pro">
+        <target>ヒラギノ明朝 Pro W3</target>
+    </trans-unit>      
+    <trans-unit id="3-8-e" resname=".Hiragino Mincho ProN">
+        <target>ヒラギノ明朝 ProN W3</target>
+    </trans-unit> 
+    <trans-unit id="1-1-e" resname=".DFPKanTeiRyu-XB">
+        <target>ＤＦＰ勘亭流</target>
+    </trans-unit>
+    <trans-unit id="1-2-e" resname=".DFPKyoKaSho-W3">
+        <target>ＤＦＰ教科書体W3</target>
+    </trans-unit>
+    <trans-unit id="1-3-e" resname=".DFPGyoSho-Lt">
+        <target>ＤＦＰ行書体</target>
+    </trans-unit>
+    <trans-unit id="1-4-e" resname=".DFPSNGyoSho-W5">
+        <target>ＤＦＰ祥南行書体W5</target>
+    </trans-unit>
+    <trans-unit id="1-5-e" resname=".DFPSoKing-W3">
+        <target>ＤＦＰ痩金体W3</target>
+    </trans-unit>
+    <trans-unit id="1-6-e" resname=".DFPMaruGothic-SB">
+        <target>ＤＦＰ太丸ゴシック体</target>
+    </trans-unit>
+    <trans-unit id="1-7-e" resname=".DFPKaiSho-Md">
+        <target>ＤＦＰ中楷書体</target>
+    </trans-unit>
+    <trans-unit id="1-8-e" resname=".DFPLeiSho-SB">
+        <target>ＤＦＰ隷書体</target>
+    </trans-unit>
+    <trans-unit id="1-9-e" resname=".HGPGothicE">
+        <target>HGPｺﾞｼｯｸE</target>
+    </trans-unit>
+    <trans-unit id="1-11-e" resname=".HGPSoeiKakugothicUB">
+        <target>HGP創英角ｺﾞｼｯｸUB</target>
+    </trans-unit>
+    <trans-unit id="1-12-e" resname=".HGPMinchoE">
+        <target>HGP明朝E</target>
+    </trans-unit>
+    <trans-unit id="1-14-e" resname=".HGSGothicE">
+        <target>HGSｺﾞｼｯｸE</target>
+    </trans-unit>
+    <trans-unit id="1-15-e" resname=".HGSSoeiKakugothicUB">
+        <target>HGS創英角ｺﾞｼｯｸUB</target>
+    </trans-unit>
+    <trans-unit id="1-17-e" resname=".HGSMinchoE">
+        <target>HGS明朝E</target>
+    </trans-unit>
+    <trans-unit id="1-19-e" resname=".HGGothicE">
+        <target>HGｺﾞｼｯｸE</target>
+    </trans-unit>
+    <trans-unit id="1-21-e" resname=".HGMaruGothicMPRO">
+        <target>HG丸ｺﾞｼｯｸM-PRO</target>
+    </trans-unit>
+    <trans-unit id="1-23-e" resname=".HGSoeiKakugothicUB">
+        <target>HG創英角ｺﾞｼｯｸUB</target>
+    </trans-unit>
+    <trans-unit id="1-25-e" resname=".HGMinchoE">
+        <target>HG明朝E</target>
+    </trans-unit>
+    <trans-unit id="1-27-e" resname=".MS PGothic">
+        <target>ＭＳ Ｐゴシック</target>
+    </trans-unit>
+    <trans-unit id="1-29-e" resname=".MS PMincho">
+        <target>ＭＳ Ｐ明朝</target>
+    </trans-unit>
+    <trans-unit id="1-31-e" resname=".MS Gothic">
+        <target>ＭＳ ゴシック</target>
+    </trans-unit>
+    <trans-unit id="1-33-e" resname=".MS Mincho">
+        <target>ＭＳ 明朝</target>
+    </trans-unit>
+    <trans-unit id="1-48-e" resname=".Meiryo">
+        <target>メイリオ</target>
+    </trans-unit>
+</group>    
+    
+</body>
+</file>
+</xliff>
