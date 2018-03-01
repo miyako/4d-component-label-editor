@@ -2,7 +2,7 @@
 
 About
 -----
-4D v~~13/v14~~15/16用のラベルエディター・コンポーネントです。
+4D v~~13/v14~~ v16用のラベルエディター・コンポーネントです。
 
 ![](https://github.com/miyako/4d-component-label-editor/blob/master/images/3.png)
 
